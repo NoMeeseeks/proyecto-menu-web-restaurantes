@@ -1,2 +1,2 @@
-# proyecto-menu-web-restaurantes
-Proyecto a base de html, css y javascript
+# Pagina web para un restaurante
+### Proyecto a base de html, css y javascript
